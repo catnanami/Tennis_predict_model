@@ -2,7 +2,7 @@
 # tennis_model.ipynb
 This file implements the LSTM model.
 You should set the parameter `filename` before running the code to determine the .csv file to be parsed.<br>
-```
+```python
 #you can change the path of .csv file here
   pathname=" "
 ```
